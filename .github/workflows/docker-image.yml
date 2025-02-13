@@ -1,4 +1,4 @@
-name: Docker Image Python
+name: Docker Images Python
  
 on:
   push:
